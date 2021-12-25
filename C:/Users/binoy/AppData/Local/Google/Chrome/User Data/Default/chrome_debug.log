@@ -1,0 +1,7 @@
+[4716:775:1218/230949.583270:INFO:CONSOLE(1)] "'1' is not allowed value of 'saveDraft' key", source: https://mail.yahoo.co.jp/u/pc/f/2.f7947501a758fbd6c71e.js (1)
+[4716:775:1218/230950.446281:INFO:CONSOLE(1)] "Allow attribute will take precedence over 'allowfullscreen'.", source: https://yads.c.yimg.jp/js/yads-async.js (1)
+[4716:34819:1218/230952.778957:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[4716:34819:1218/230952.780681:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[4716:34819:1218/230952.780776:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[4716:34819:1218/230952.781486:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[4716:775:1219/000121.848573:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,9 @@
+2021/12/18-23:09:46.852 ba03 Reusing MANIFEST /Users/do/Downloads/YahooMailFileDownloadProject 6/C:/Users/binoy/AppData/Local/Google/Chrome/User Data/Default/Default/shared_proto_db/MANIFEST-000001
+2021/12/18-23:09:46.858 ba03 Recovering log #4
+2021/12/18-23:09:46.865 ba03 Reusing old log /Users/do/Downloads/YahooMailFileDownloadProject 6/C:/Users/binoy/AppData/Local/Google/Chrome/User Data/Default/Default/shared_proto_db/000004.log 
+2021/12/18-23:10:45.845 7203 Level-0 table #8: started
+2021/12/18-23:10:45.865 7203 Level-0 table #8: 135989 bytes OK
+2021/12/18-23:10:45.879 7203 Delete type=0 #4
+2021/12/18-23:15:53.250 c003 Level-0 table #10: started
+2021/12/18-23:15:53.284 c003 Level-0 table #10: 127138 bytes OK
+2021/12/18-23:15:53.301 c003 Delete type=0 #7
